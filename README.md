@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **nvim**
 
-- 📫 How to reach me **pan1ckk14@gmail.com**
+- 📫 You can reach me at **pan1ckk14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
