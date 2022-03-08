@@ -1,9 +1,17 @@
-<h1 align="center">Hi 👋, I'm PanicKk</h1>
-<h3 align="center">A tech hobbyst!</h3>
+<h1 align="center">Hi 👋, my name is PanicKk</h1>
+<h3 align="center">I am a tech hobbyist!</h3>
+
+- 🔭 I’m currently working on **ricing my linux machine**
+
+- 🌱 I’m currently learning **nvim**
+
+- 📫 How to reach me **pan1ckk14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/panickk_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="panickk_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/panickk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="panickk" height="30" width="40" /></a>
+<a href="https://discord.gg/Pan!cKk#0709" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Pan!cKk#0709" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
