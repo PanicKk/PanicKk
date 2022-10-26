@@ -1,8 +1,7 @@
 <strong><samp>「</samp></strong>
 <h1 align="center" style="display: flex; align-items: center; justify-content: center;">Hello There‎ ‎ ‎ ‎ <img src="https://tenor.com/view/hi-penguin-cute-wave-hello-gif-16325822.gif" width="40px"  height="40px"/></h1>
-<div align="center">
-	I am <span style="color: #70a5eb;">PanicKk</span>, a Computer Engineering student and a Linux enthusiast.
-	<div style="display: flex; align-items: center; justify-content: center;">I like‎ ‎ <img src="https://cdn-icons-png.flaticon.com/512/129/129356.png" width="20px" height="20px"/></div></div>
+<h3 align="center">
+	I am <span style="color: #70a5eb;">PanicKk</span>, a Computer Engineering student and a Linux enthusiast.  I like‎ ‎ <img src="https://cdn-icons-png.flaticon.com/512/129/129356.png" width="20px" height="20px"/></h3>
 <p align="right"><strong><samp>」</samp></strong></p>
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
