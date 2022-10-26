@@ -1,7 +1,7 @@
 <strong><samp>「</samp></strong>
 <h1 align="center" style="display: flex; align-items: center; justify-content: center;">Hello There‎ ‎ ‎ ‎ <img src="https://tenor.com/view/hi-penguin-cute-wave-hello-gif-16325822.gif" width="40px"  height="40px"/></h1>
 <h3 align="center">
-	I am <span style="color: #70a5eb;">PanicKk</span>, a Computer Engineering student and a Linux enthusiast.<br>I like‎ ‎ <img src="https://cdn-icons-png.flaticon.com/512/129/129356.png" width="20px" height="20px"/></h3>
+	I am <span style="color: #70a5eb;">PanicKk</span>, a Computer Engineering student and a Linux enthusiast.  I like‎ ‎ <img src="https://cdn-icons-png.flaticon.com/512/129/129356.png" width="20px" height="20px"/></h3>
 <p align="right"><strong><samp>」</samp></strong></p>
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
@@ -48,3 +48,11 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
   </a>
 </p>
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PanicKk&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PanicKk&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
+    </tr>
+  </table>
+</div>
