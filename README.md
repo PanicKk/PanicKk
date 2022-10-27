@@ -3,7 +3,7 @@
 </strong>
 <h1 align="center" style="display: flex; align-items: center; justify-content: center;">Hello There‎ ‎ ‎ ‎ <img src="https://tenor.com/view/hi-penguin-cute-wave-hello-gif-16325822.gif" width="40px" height="40px" />
 </h1>
-<h3 align="center"> I am PanicKk, a Computer Engineering student and a Linux enthusiast.<br>Oh... and btw,I like‎ ‎ <img src="https://cdn-icons-png.flaticon.com/512/129/129356.png" width="20px" height="20px" />
+<h3 align="center"> I am PanicKk, a Computer Engineering student and a Linux enthusiast.<br>Oh... and btw, I like‎ ‎ <img src="https://cdn-icons-png.flaticon.com/512/129/129356.png" width="20px" height="20px" />
 </h3>
 <p align="right">
   <strong>
